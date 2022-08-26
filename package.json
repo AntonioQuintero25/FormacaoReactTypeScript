@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "classnames": "^2.3.1",
+    "react-icons": "^4.4.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.4",
+    "@typescript-eslint/eslint-plugin": "^5.27.1",
+    "@typescript-eslint/parser": "^5.27.1",
+    "eslint": "^8.17.0",
+    "eslint-plugin-react": "^7.30.0",
+    "sass": "^1.52.2",
+    "typescript-plugin-css-modules": "^3.4.0"
+  }
+}
